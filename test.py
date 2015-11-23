@@ -4,9 +4,6 @@ exec("testing")
 id = "testing"
 variable = "testing"
 print "das ist ein %s" % variable
-exec(variable)
-eval(varialbe)
-eval(variable)
 eval("print variable")
 eval("print variable")
 exec(variable)
