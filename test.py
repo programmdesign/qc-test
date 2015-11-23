@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+exec("testing")
 id = "testing"
 variable = "testing"
 print "das ist ein %s" % variable
