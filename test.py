@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+def test(a, b=[]):
+  pass
+
 id = "testing"
 variable = "testing"
 print "das ist ein %s" % variable
