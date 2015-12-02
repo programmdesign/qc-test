@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-def test(a, b=[]):
+def test(a, b= None):
+  if b is None:
+    b = []
   pass
 
 id = "testing"
