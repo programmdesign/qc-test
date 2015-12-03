@@ -12,11 +12,10 @@ all([i*2 < 10 for i in range(10)])
 doubled_squares = [i*2 for i in [i*i for i in range(10)]]
 
 if number == None:
+times=[]
+times[0] = {"hour": 8, "minute": 37, "second": 05, "hour": 12}
+times[1] = {"hour": 9, "minute": 37, "second": 05, "hour": 12}
 
-times = [
-    {"hour": 8, "minute": 37, "second": 05, "hour": 12},
-    {"hour": 9, "minute": 37, "second": 05, "hour": 12}  
-]
 stuff_dict = dict([(t.minute, t.hour) for t in times])
 stuff_set = set([t.hour for t in times])
 
