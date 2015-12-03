@@ -17,8 +17,8 @@ times = [
   {"hour": 8, "minute": 37, "second": 05, "hour": 12},
   {"hour": 9, "minute": 37, "second": 05, "hour": 12}  
 ]
-stuff_dict = dict([(time.minute, time.hour) for t in times])
-stuff_set = set([time.hour for t in times]
+stuff_dict = dict([(t.minute, t.hour) for t in times])
+stuff_set = set([t.hour for t in times]
 
 some_list = None
 if not some_list is None:
@@ -33,6 +33,10 @@ print time
 i, k = 1, 2
 if i <> k:
   print("Unequal")
+  
+x = None
+if x == None:
+  print "Ouch"
 
 id = "testing"
 variable = "testing"
