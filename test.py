@@ -22,7 +22,7 @@ some_list = None
 if not some_list is None:
     do_something()
 
-print "{} is {}".format("life", "hard")
+print "{0} is {1}".format("life", "hard")
 
 time = {"hour": 8, "minute": 37, "second": 05, "hour": 12}
 print time
