@@ -9,7 +9,7 @@ def test(a, b=[]):
 any([i*2 == 12 for i in range(10)])
 all([i*2 < 10 for i in range(10)])
 
-doubled_squares = [i*2 for i in [i*i for i in range(10)]]
+doubled_squares = [i*2 for i in (i*i for i in range(10))]
 
 times=[]
 times.append({"hour": 8, "minute": 37, "second": 05, "hour": 12})
