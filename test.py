@@ -33,7 +33,7 @@ if i <> k:
     print("Unequal")
   
 x = None
-if x == None:
+if x is None:
   print "Ouch"
 
 id = "testing"
