@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+print "das ist ein %s" % "Test"
+
 def test(a, b=[]):
   pass
 
