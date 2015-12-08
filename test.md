@@ -8,7 +8,7 @@ Save hours of manual work by automatically fixing quality issues. Cody, your cod
 
 [How it works](https://www.quantifiedcode.com/how-it-works) • [Example](https://www.github.com/programmdesign/biopython/pulls) • [Video](https://youtu.be/rSkmnFVXjgY)
 
-#### Automate your code reviews
+### Automate your code reviews
 
 Continuously monitor all your Commits and Pull Requests for hundreds of code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
 
