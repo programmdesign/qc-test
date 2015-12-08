@@ -2,7 +2,7 @@ QuantifiedCode is first code quality platform for Python that fixes issues, inst
 
 ### Fix quality issues automatically
 
-Save hours of manual work by automatically fixing quality issues, instead of just reporting them. Cody, your code-quality bot, automatically suggests refactorings and delivers them as GitHub Pull Request or as Patch via email. 
+Save hours of manual work by automatically fixing quality issues. Cody, your code-quality bot, automatically suggests refactorings and delivers them as GitHub Pull Request or as Patch via email. 
 
 ![Example: Automted fix of mutable default arguments](automated_code_repair.png)
 
