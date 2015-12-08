@@ -12,7 +12,7 @@ Save hours of manual work by automatically fixing quality issues, instead of jus
 
 #### Automate your code reviews
 
-Continuously monitor all your Commits and Pull Requests for more than 200 code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django, Flask, and more. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
+Continuously monitor all your Commits and Pull Requests for more than 200 code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
 
 ![GitHub Pull Request Integration](pull_request_integration.png)
 
