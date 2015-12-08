@@ -1,4 +1,4 @@
-QuantifiedCode is first code quality platform for Python that fixes issues, instead of just reporting them. It continuously monitors all your Commits and Pull Request for hundreds of quality issues, notifies you about problems and automatically offers refactorings that improve your code.
+QuantifiedCode is first code quality platform that fixes issues, instead of just reporting them. It continuously monitors all your Commits and Pull Request for hundreds of quality issues, notifies you about problems and automatically offers refactorings that improve your code. Currently, QuantifiedCode specializes in Python.
 
 ### Fix quality issues automatically
 
