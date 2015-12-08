@@ -1,4 +1,4 @@
-QuantifiedCode is first code quality platform for Python that fixes issues, instead of just reporting them. It continuously monitors all your Commits and Pull Request for more than 200 quality issues, notifies you about problems and automatically offers refactorings that improve your code.
+QuantifiedCode is first code quality platform for Python that fixes issues, instead of just reporting them. It continuously monitors all your Commits and Pull Request for hundreds of quality issues, notifies you about problems and automatically offers refactorings that improve your code.
 
 ### Fix quality issues automatically
 
@@ -10,7 +10,7 @@ Save hours of manual work by automatically fixing quality issues. Cody, your cod
 
 #### Automate your code reviews
 
-Continuously monitor all your Commits and Pull Requests for more than 200 code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
+Continuously monitor all your Commits and Pull Requests for hundreds of code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
 
 ![GitHub Pull Request Integration](pull_request_integration.png)
 
