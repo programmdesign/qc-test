@@ -23,7 +23,7 @@ Larger software projects code can quickly get complex. Use QuantifiedCode's 3D s
 
 #### Enforce your own quality standards
 
-Why search and discuss a code issues more than once? Use QuantifiedCode's Code Check Editor to "record" issues you discover in manual reviews or use it to codify and enfore your own architecture or quality standards. Creating a check takes only minutes and is as simple as writing a query. [Learn more](http://docs.quantifiedcode.com/patterns/language/index.html)
+Why search and discuss a code issue more than once? Use QuantifiedCode's Code Check Editor to "record" issues you discover in manual reviews or use it to codify and enfore your own architecture or quality standards. Creating a check takes only minutes and is as simple as writing a query. [Learn more](http://docs.quantifiedcode.com/patterns/language/index.html)
 
 ![Code Check Editor](code_check_editor.png)
 
