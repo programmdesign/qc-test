@@ -1,9 +1,9 @@
-QuantifiedCode is the first code quality platform that fixes issues, instead of just reporting them. It continuously monitors all your Commits and Pull Request for hundreds of quality issues, notifies you about problems and automatically offers refactorings that improve your code. Currently, QuantifiedCode specializes in Python.
+QuantifiedCode is the first code quality platform that fixes issues, instead of just reporting them. It continuously monitors all your commits and pull request for hundreds of quality rules, notifies you about problems and automatically offers refactorings that improve your code. Currently, QuantifiedCode supports in Python.
 
 ### Features
 #### Fix quality issues automatically
 
-Save hours of manual work by automatically fixing quality issues. Cody, your code-quality bot, automatically suggests refactorings and delivers them as GitHub Pull Request or as Patch via email. 
+Save hours of manual work by automatically fixing quality issues. Cody, the code-quality bot, automatically suggests refactorings and delivers them as GitHub pull request or as patch via email. 
 
 ![Example: Automted fix of mutable default arguments](automated_code_repair.png)
 
@@ -11,21 +11,21 @@ Save hours of manual work by automatically fixing quality issues. Cody, your cod
 
 #### Automate your code reviews
 
-Continuously monitor all your Commits and Pull Requests for hundreds of code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and enterprise-grade type-inference and data-flow analyses ensure your code stays safe and sound.
+Continuously monitor all your Commits and Pull Requests for hundreds of code quality rules. QuantifiedCode supports Python, as well as popular frameworks like Django or Flask. Incremental analyses make your builds super fast and type-inference and data-flow analysis ensure your code stays safe and sound.
 
 ![GitHub Pull Request Integration](pull_request_integration.png)
 
 #### Identify complex code
 
-Larger software projects code can quickly get complex. Use QuantifiedCode's 3D software maps to instantaniously identify complexity hotspots that require thorough documentation or a rewrite.
+Larger software projects code can quickly grow complex. Use QuantifiedCode's 3D software maps to instantly identify complexity hot spots that require thorough documentation or a rewrite.
 
 ![3D Software Map to detect code complexity](software_map_code_complexity.png)
 
 #### Enforce your own quality standards
 
-Why search and discuss a code issue more than once? Use QuantifiedCode's Code Check Editor to "record" issues you discover in manual reviews or use it to codify and enfore your own architecture or quality standards. Creating a check takes only minutes and is as simple as writing a query. [Learn more](http://docs.quantifiedcode.com/patterns/language/index.html)
+Why search and discuss a code issue more than once? Use QuantifiedCode's code check editor to "record" issues you discover in manual reviews or use it to codify and enfore your own architecture or quality standards. Creating a check takes only minutes and is as simple as writing a query. [Learn more](http://docs.quantifiedcode.com/patterns/language/index.html)
 
-![Code Check Editor](code_check_editor.png)
+![Code check editor](code_check_editor.png)
 
 ### Free for Open Source
 
