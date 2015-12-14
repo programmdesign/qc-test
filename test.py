@@ -3,6 +3,9 @@
 
 print "das ist ein %s" % "Test"
 
+def a(b,c):
+    pass
+
 def test(a, b=[]):
     pass
 
