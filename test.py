@@ -6,7 +6,9 @@ print "das ist ein %s" % "Test"
 def a(b,c):
     pass
 
-def test(a, b=[]):
+def test(a, b=None):
+    if b is None:
+        b = []
     pass
 
 any([i*2 == 12 for i in range(10)])
