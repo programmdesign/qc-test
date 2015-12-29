@@ -12,3 +12,15 @@ print "das {0!s}".format("ist")
 eval("print variable")
 eval("print variable")
 
+def x(a = []):
+  pass
+
+def y(a= []):
+  pass
+
+def z(a =[]):
+  pass
+
+def aa(a=[]):
+  pass
+
