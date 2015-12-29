@@ -12,15 +12,23 @@ print "das {0!s}".format("ist")
 eval("print variable")
 eval("print variable")
 
-def x(a = []):
+def x(a = None):
+  if a is None:
+    a = []
   pass
 
-def y(a= []):
+def y(a= None):
+  if a is None:
+    a = []
   pass
 
-def z(a =[]):
+def z(a =None):
+  if a is None:
+    a = []
   pass
 
-def aa(a=[]):
+def aa(a=None):
+  if a is None:
+    a = []
   pass
 
